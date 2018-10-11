@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Transfer Time Calculator</string>
+    <string name="labelSpeed">Network Speed (Mbps)</string>
+    <string name="labelFile">File Size (MiB)</string>
+</resources>
